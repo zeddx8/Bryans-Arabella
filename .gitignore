@@ -1,0 +1,9 @@
+node_modules
+.env
+.env.*
+!.env.example
+dist
+backend/uploads/products/*
+backend/uploads/payments/*
+!backend/uploads/products/.gitkeep
+!backend/uploads/payments/.gitkeep
